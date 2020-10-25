@@ -1,0 +1,46 @@
+חלק 1
+1. dog, cat, bird, will take from animal 
+saimicat, will take from cat and buldog will take from dog.
+Yes animal should be abstract because Animal isnt a specific thing, it can be many, so specific types can take from it.
+
+2. yes, with interfaces. Because if we made a class, that needs to take from one of the inheritances, and then we have another than needs something 
+first class shouldnt have, we need to make another interface so the other class can take from both.
+
+3.yes
+
+4.no
+
+5. yes
+
+6. no
+
+7.yes, all are public, we cant add access modifier because all are public
+
+8. public: can be accessed by everyone
+   private: cant be accessed by anyone but in same class
+   protected: can only be accessed in same class, or a class that inherits from
+   internal: can be accessed in same file 
+
+9. no you dont have to in virtual, but you must in abstract 
+
+10. 1.override 
+2. overloading 
+3.overloading 
+
+11. 3
+
+12.2
+
+14. we make a static class when we want it to have static functions, write in it anything that you dont need to make an object from, or anything 
+you dont want other class to inherite it.
+
+15.public name { get; set;};
+
+
+
+
+
+
+
+
+
